@@ -1,1 +1,3 @@
-# Getting Started with Create React App
+# basic_react
+
+A new React project that is extension to basic_django app.
